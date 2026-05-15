@@ -1,0 +1,3 @@
+#lectura de datos 
+library(readr)
+Vales_por_consumo_del_combustible_de_la_Municipalidad_Distrital_de_Ate_MDA_ <- read_csv("Vales por consumo del combustible de la Municipalidad Distrital de Ate – [MDA].csv")
